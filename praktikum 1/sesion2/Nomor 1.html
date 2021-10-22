@@ -1,0 +1,46 @@
+<html>
+<head>
+	<title> Perpustakaan Madiun </title>
+</head>
+<body>
+	<h2><center> Perpustakaan Madiun </center></h2>
+	<br/>
+	<center><img src="madiun.jpg" alt="madiun" width="200" height="200"></center>
+	<br/>
+	<form action="formulir.html" method="get">
+	Nama 			: <input type="text">
+	<br/>
+	Password		: <input type="password" minlength="4">
+	<br/>
+	Jenis Kelamin 	:
+	Laki-Laki <input type="radio" name="jenis_kelamin" value="laki-laki" checked />
+	Perempuan <input type="radio" name="jenis_kelamin" value="perempuan" />
+	<br/>
+	Tujuan			: 
+	<br/>
+	Membaca Buku <input type="checkbox" name="ingin_baca"/> 
+	<br/>
+	Meminjam Buku <input type="checkbox" name="ingin_meminjam" />
+	<br/>
+	Mengembalikan Buku <input type="checkbox" name="ingin_kembali" />
+	<br/>
+	Status:
+	<br/>
+	<select name="nama_status">
+	<option value="sedang_bekerja">Bekerja</option>
+	<option value="sedang_belajar">Pelajar</option>
+	</select>
+	<br/>
+	Masukan saran	:
+	<br/>
+	<textarea name="komentar" rows="5" cols="20">
+	Silahkan Katakan Saran dan Masukan!
+	</textarea>
+	
+	<br/>
+	<input type="submit" name="submit" value="Mulai Masuk">
+	</form>
+	</body>
+	</html>
+	
+	
