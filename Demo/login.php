@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Web Kelompok 5</title>
+    <title>Login</title>
     <!-- Icons-->
-    <link href="assets/css/aku.css" rel="stylesheet">
+    <link href="https://ferdiansyaahh.github.io/Demo/aku.css" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="assets/fontawesome/css/all.min.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://ferdiansyaahh.github.io/Demo/all.min.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
   </head>
   <body class="app flex-row align-items-center">
     <div class="container">
