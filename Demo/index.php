@@ -55,7 +55,7 @@
 				echo "<script>document.location.href='index.php?p=home'</script>";
 			}else{
 				$p=$_GET['p'];
-				include "content/$p.php";
+				include "https://ferdiansyaahh.github.io/content/$p.php";
 			}
 		 ?>
 	</div>
